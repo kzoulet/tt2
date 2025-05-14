@@ -1,6 +1,6 @@
 # 🐦 TT2 – Tits Tracker 2
 
-**Unsupervised Individual Bird Identification System**
+**Shitty AI made Unsupervised Individual Bird Identification System that is not working**
 
 TT2 identifies **distinct birds** (not just species) using timestamped image bursts, deep metric learning, and unsupervised clustering. It requires **no manual labeling** and improves as you collect more data.
 
